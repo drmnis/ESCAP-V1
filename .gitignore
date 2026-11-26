@@ -1,0 +1,21 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+rsconnect/
+visit_counter.txt
+www/visit_counter.txt
+dev/*_log.txt
+dev/test_*.png
+dev/test_*.pdf
+dev/test_*.eps
+dev/test_*.md
+dev/*.csv
+dev/git_*.R
+*.ai
+www/pathdef.m
+www/* - Copy*
+www/old *
+Thumbs.db
+.DS_Store
